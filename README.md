@@ -1,3 +1,3 @@
-# Regression-Analysis---Python-
-This is a python based code of Regression Analysis. 
+# Regression-Analysis---Machine Learning-
+This is a Machine Learning based code of Regression Analysis. 
 The Regression Models used were OLS Linear Regression, Lasso Regression and ARD regression. 
